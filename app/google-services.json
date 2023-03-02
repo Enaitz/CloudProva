@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "281624809605",
+    "project_id": "cloudprova-a5fcb",
+    "storage_bucket": "cloudprova-a5fcb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:281624809605:android:9084ee9f9eca7d2eac59ec",
+        "android_client_info": {
+          "package_name": "com.enaitzdam.cloudprova"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "281624809605-p9irsb7ol51t4k9jn1ogghva4ukcm1dj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwFcEZ93_eREglS4mXXdgERHgBcc-CaBw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "281624809605-p9irsb7ol51t4k9jn1ogghva4ukcm1dj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
